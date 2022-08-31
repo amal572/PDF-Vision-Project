@@ -8,4 +8,5 @@ Where we insert a pdf file into the program which basically provides the followi
 - The ability to move between pages (scaling) depending on the movement of the iris of the eye
 - The ability to take a screenshot through the eyes
 
-<h2> to use it </h2>
+<h2> used libraries </h2>
+<li> opencv </li>
