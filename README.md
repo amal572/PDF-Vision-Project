@@ -8,6 +8,11 @@ Where we insert a pdf file into the program which basically provides the followi
 - The ability to move between pages (scaling) depending on the movement of the iris of the eye
 - The ability to take a screenshot through the eyes
 
+<h2>In This app:</h2>
+- USE PyCharm Community Edition 
+- or you can use jupyter
+
 <h2> used libraries </h2>
 <li> opencv to download it write "pip install opencv-python" in command </li>
 <li> numpy </li>
+<li> python version 3.6 <li>
