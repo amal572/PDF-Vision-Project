@@ -7,3 +7,5 @@ Where we insert a pdf file into the program which basically provides the followi
 - put a marker on the page of the book to continue reading from it
 - The ability to move between pages (scaling) depending on the movement of the iris of the eye
 - The ability to take a screenshot through the eyes
+
+<h2> to use it </h2>
