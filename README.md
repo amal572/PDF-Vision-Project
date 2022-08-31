@@ -9,4 +9,5 @@ Where we insert a pdf file into the program which basically provides the followi
 - The ability to take a screenshot through the eyes
 
 <h2> used libraries </h2>
-<li> opencv </li>
+<li> opencv to download it write "pip install opencv-python" in command </li>
+<li> numpy </li>
