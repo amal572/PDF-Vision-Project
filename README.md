@@ -1,4 +1,4 @@
-# Computer Vision Project
+# PDF Vision Project
 
 In this project, we were tasked with creating a program to read files with the suffix PDF safely and comfortably. The program provides the following features:
 
