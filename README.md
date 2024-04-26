@@ -1,23 +1,24 @@
-# computer-vision-project
-We were asked to make a project to read files with the suffix pdf in a safe and comfortable way
-Where we insert a pdf file into the program which basically provides the following:
-- Reading in the eye comfort mode, which is completely similar to the situation in most smart devices
-- Convert the background of the pages to a color of the user's choice
-- Convert the writing to a color of the user's choice
-- put a marker on the page of the book to continue reading from it
-- The ability to move between pages (scaling) depending on the movement of the iris of the eye
-- The ability to take a screenshot through the eyes
+# Computer Vision Project
 
-<h2>In This app:</h2>
-<li> USE PyCharm Community Edition </li>
-<li> or you can use jupyter </li>
+In this project, we were tasked with creating a program to read files with the suffix PDF safely and comfortably. The program provides the following features:
 
-<h2> used libraries </h2>
-<li> opencv to download it write "pip install opencv-python" in command </li>
-<li> numpy </li>
-<li> python version 3.6 </li>
+- Reading in eye comfort mode, similar to most smart devices.
+- Ability to convert the background of the pages to a color of the user's choice.
+- Ability to convert the writing to a color of the user's choice.
+- Ability to place a marker on the page of the book to continue reading from it.
+- Ability to move between pages (scaling) depending on the movement of the iris of the eye.
+- Ability to take a screenshot through the eyes.
 
-<h2>  Demo for this project </h2>
-https://user-images.githubusercontent.com/61944554/187795720-6369a78c-dfb0-4380-bbf8-cf1c0d22085a.mp4
+## Usage
 
+- Use PyCharm Community Edition or you can use Jupyter.
+  
+## Used Libraries
 
+- OpenCV: To install it, write `pip install opencv-python` in the command line.
+- NumPy
+- Python version 3.6
+
+## Demo for this project
+
+[Watch the demo here](https://user-images.githubusercontent.com/61944554/187795720-6369a78c-dfb0-4380-bbf8-cf1c0d22085a.mp4)
